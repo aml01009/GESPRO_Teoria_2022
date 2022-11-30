@@ -10,14 +10,17 @@ JMA modifica
 
 
 
-```
+
 ***NOMBRE DE LOS PARTICIPANTES:***
 
-David TOMÉ ARNAIZ       
-Alejandro MARTÍNEZ LÓPEZ               
-Ainhoa RODRIGO OBREGÓN             
-Rodrigo RODRÍGUEZ FERNÁNDEZ
 ```
-***HOLA***
+TOMÉ ARNAIZ, David       
+MARTÍNEZ LÓPEZ, Alejandro               
+RODRIGO OBREGÓN, Ainhoa        
+RODRÍGUEZ FERNÁNDEZ, Rodrigo
+```
+
+
+
 
 
