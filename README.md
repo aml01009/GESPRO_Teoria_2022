@@ -11,10 +11,10 @@ JMA modifica
 |-----------------------------------------------------|
 |    MIEMBROS DEL EQUIPO:                             |
 |                                                     |
-|    David TOMÉ ARNAIZ,                               |
-|    ALejandro MARTÍNEZ LÓPEZ,                        |
-|    Ainhoa RODRIGO OBREGÓN,                          |
-|    Rodrigo RODRÍGUEZ FERNÁNDEZ                      |
+|    David TOMÉ ARNAIZ,<br>                           |
+|    ALejandro MARTÍNEZ LÓPEZ, <br>                   |
+|    Ainhoa RODRIGO OBREGÓN,<br>                      |
+|    Rodrigo RODRÍGUEZ FERNÁNDEZ <br>                 |
 |-----------------------------------------------------|
 
 
