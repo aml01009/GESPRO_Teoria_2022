@@ -280,15 +280,11 @@ Por lo tanto, el tiempo final estimado es de 1.5 días
 ```
 4
 ```
-<br><br/>
-
 
 ## Descripción: 
-<br><br/>
 ```
 Esta rama nos va a permitir visualizar las configuraciones del coche
 ```
-<br><br/>
 
 ## Estimación de tiempo:
 ```
@@ -299,7 +295,6 @@ La votación para la asignación de tiempo estimado obtuvo los siguientes result
     Rodrigo: 2
 Por lo tanto, el tiempo final estimado es de 1.75 días
 ```
-<br><br/>
 
 ## Dependencias:
 ```
@@ -307,8 +302,6 @@ Por lo tanto, el tiempo final estimado es de 1.75 días
 
 - Se debe haber finalizado los entrenamientos para poner la configuración adecuada
 ```
-
-<br><br/>
 
 ## Condiciones de satisfacción:
 ```
