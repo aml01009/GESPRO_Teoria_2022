@@ -1,4 +1,5 @@
-# SISTEMA DE REGISTRO
+
+# GESTIÓN DE PIEZAS Y RECAMBIOS PARA LOS VEHÍCULOS:
   
 ## ID de la rama: 
 ```
@@ -39,5 +40,8 @@ Por lo tanto, el tiempo final estimado es de 2.5 días
 - La contraseña debe tener una mayúscula, un número y un signo de puntuación
 - Poder entrar al menú principal 
 ```
+<br> <br/>
+
+
 
 
