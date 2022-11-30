@@ -20,7 +20,8 @@ JMA modifica
 ```
 David TOMÉ ARNAIZ,<br>                   
 ALejandro MARTÍNEZ LÓPEZ, <br>                   
-Ainhoa RODRIGO OBREGÓN,<br>                      
+Ainhoa RODRIGO OBREGÓN,<br> 
+```                     
 Rodrigo RODRÍGUEZ FERNÁNDEZ <br> 
 ```
 
