@@ -21,6 +21,21 @@ RODRÍGUEZ FERNÁNDEZ, Rodrigo
 ```
 
 
+***ROL DE LOS PARTICIPANTES:***
+
+_Project Owner:_
+```
+MARTÍNEZ LÓPEZ, Alejandro 
+```              
+_Scrum Master:_
+```
+RODRÍGUEZ FERNÁNDEZ, Rodrigo
+```
+_Desarrolladores:_ 
+```
+TOMÉ ARNAIZ, David       
+RODRÍGUEZ FERNÁNDEZ, Rodrigo
+```
 
 
 
