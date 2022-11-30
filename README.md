@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GESPRO_Teoria_2022
 Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2022/23. Universidad de Burgos.
 
