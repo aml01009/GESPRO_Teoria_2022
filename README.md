@@ -8,7 +8,14 @@ JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
 
-David TOME ARNAIZ, 
-ALejandro MARTÍNEZ LÓPEZ, 
-Ainhoa RODRIGO OBREGÓN, 
-Rodrigo RODRÍGUEZ FERNÁNDEZ, 
+-------------------------------------------------------
+|    MIEMBROS DEL EQUIPO:                             |
+|    David TOMÉ ARNAIZ,                               |
+|    ALejandro MARTÍNEZ LÓPEZ,                        |
+|    Ainhoa RODRIGO OBREGÓN,                          |
+|    Rodrigo RODRÍGUEZ FERNÁNDEZ                      |
+-------------------------------------------------------
+
+
+
+
