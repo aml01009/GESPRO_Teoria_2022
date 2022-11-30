@@ -2,7 +2,7 @@
   
 ## ID de la rama: 
 ```
-6
+4
 ```
 <br><br/>
 
@@ -27,7 +27,7 @@ Por lo tanto, el tiempo final estimado es de 1.25 días
 
 ## Dependencias:
 ```
-- Para poder completar esta tarea, es necesario haber completado la tarea con ID 2.
+- Para poder completar esta tarea, es necesario haber completado la tarea con ID 5.
 
 - Al finalizar cada premio, se actualiza la tabla con los nuevos puntos obtenidos por los pilotos
 ```
