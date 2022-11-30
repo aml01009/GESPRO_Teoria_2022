@@ -8,7 +8,6 @@
 
 
 ## Descripción: 
-<br><br/>
 ```
 Esta rama nos permite visualizar la clasificación de los pilotos hasta la fecha actual
 ```
