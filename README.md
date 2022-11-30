@@ -207,7 +207,7 @@ Por lo tanto, el tiempo final estimado es de 2.5 días
   
 ## ID de la rama: 
 ```
-1
+5
 ```
 
 
@@ -224,7 +224,7 @@ La votación para la asignación de tiempo estimado obtuvo los siguientes result
     Alejandro: 5
     Ainhoa: 5
     Rodrigo: 8
-Por lo tanto, el tiempo final estimado es de 2.65 días
+Por lo tanto, el tiempo final estimado es de 6.5 días
 ```
 
 ## Dependencias:
@@ -249,7 +249,6 @@ Por lo tanto, el tiempo final estimado es de 2.65 días
 ```
 Esta rama nos permite ver y gestionar todos los modelos de piezas incluidos en cada vehículo, así como los posibles recambios en caso de avería.
 ```
-<br><br/>
 
 ## Estimación de tiempo:
 ```
@@ -260,12 +259,11 @@ La votación para la asignación de tiempo estimado obtuvo los siguientes result
     Rodrigo: 1
 Por lo tanto, el tiempo final estimado es de 1.5 días
 ```
-<br><br/>
+
 
 ## Dependencias:
 ```
 - Para poder completar esta tarea, es necesario haber completado la tarea con ID 5.
-
 - Se deben haber comprado piezas de repuesto
 ```
 
@@ -278,37 +276,25 @@ Por lo tanto, el tiempo final estimado es de 1.5 días
 ```
 
 # VER MAPAS DE MOTOR:
-# CLASIFICACIÓN:
-  
+
 ## ID de la rama: 
 ```
-4
+2
 ```
 
 ## Descripción: 
 ```
 Esta rama nos va a permitir visualizar las configuraciones del coche
 ```
-
-<br><br/>
-
-
-## Descripción: 
-```
-Esta rama nos permite visualizar la clasificación de los pilotos hasta la fecha actual
-```
-
-<br><br/>
-
 ## Estimación de tiempo:
 ```
 La votación para la asignación de tiempo estimado obtuvo los siguientes resultados:
     David: 1
     Alejandro: 2
+    Ainhoa: 2
     Rodrigo: 2
 Por lo tanto, el tiempo final estimado es de 1.75 días
 ```
-
 ## Dependencias:
 ```
 - Para poder completar esta tarea, es necesario haber completado la tarea con ID 5.
@@ -320,7 +306,41 @@ Por lo tanto, el tiempo final estimado es de 1.75 días
 ```
 - Conducción perfecta para el piloto
 - Guardado de configuraciones previas
-- Enlace al acta de carrera con informe de la FIA en cuestion
+```
+
+# CLASIFICACIÓN:
+  
+## ID de la rama: 
+```
+4
+```
+
+
+## Descripción: 
+```
+Esta rama nos permite visualizar la clasificación de los pilotos hasta la fecha actual
+```
+
+
+## Estimación de tiempo:
+```
+La votación para la asignación de tiempo estimado obtuvo los siguientes resultados:
+    David: 1
+    Alejandro: 2
+    Ainhoa: 1
+    Rodrigo: 1
+Por lo tanto, el tiempo final estimado es de 1.25 días
+```
+
+## Dependencias:
+```
+- Para poder completar esta tarea, es necesario haber completado la tarea con ID 5.
+- Al finalizar cada premio, se actualiza la tabla con los nuevos puntos obtenidos por los pilotos
+```
+
+## Condiciones de satisfacción:
+```
+- Se debe poder visualizar de forma clara el nombre de los pilotos y sus puntos, victorias y podios obtenidos
 ```
 
 # HISTORIAL DE SANCIONES:
@@ -329,7 +349,10 @@ Por lo tanto, el tiempo final estimado es de 1.75 días
 ```
 1
 ```
-<br><br/>
+## Descripción: 
+```
+Esta rama nos permite visualizar la lista de los Gran Premios y si hay sanciones, su valor, de qué corredor y su duración
+```
 
 ## Estimación de tiempo:
 ```
@@ -339,20 +362,15 @@ La votación para la asignación de tiempo estimado obtuvo los siguientes result
     Ainhoa: 2
     Rodrigo: 1
 Por lo tanto, el tiempo final estimado es de 1.5 días
-    Ainhoa: 1
-Por lo tanto, el tiempo final estimado es de 1.25 días
+   
 ```
-<br><br/>
+
 ## Dependencias:
 ```
 - Para poder completar esta tarea, es necesario haber completado la tarea con ID 5.
-
-- Se debe haber finalizado la carrera
-- Se deben de haber provocado acciones antirreglamentarias para que aparezcan estas sanciones.
-- Al finalizar cada premio, se actualiza la tabla con los nuevos puntos obtenidos por los pilotos
+- Se deben haber finalizado las carreras
+- Se tiene que haber producido alguna acción antirreglamentaria
 ```
-
-<br><br/>
 
 ## Condiciones de satisfacción:
 ```
@@ -363,7 +381,6 @@ Por lo tanto, el tiempo final estimado es de 1.25 días
 
 
 
-- Se debe poder visualizar de forma clara el nombre de los pilotos, y los puntos, victorias y podios obtenidos
-```
+
 
 
