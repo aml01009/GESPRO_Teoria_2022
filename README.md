@@ -200,8 +200,6 @@ Por lo tanto, el tiempo final estimado es de 2.5 días
 - La contraseña debe tener una mayúscula, un número y un signo de puntuación
 - Poder entrar al menú principal 
 ```
-<br> <br/>
-
 
 
 # MENU PRINCIPAL
@@ -233,11 +231,11 @@ Por lo tanto, el tiempo final estimado es de 2.6.5 días
 - ID6
 ```
 
-
 ## Condiciones de satisfacción:
 ```
 - Interfaz con fácil entendimiento para el usuario
 - Poder acceder a las demás tareas sin mucha dificultad
+```
 
 # GESTIÓN DE PIEZAS Y RECAMBIOS PARA LOS VEHÍCULOS:
   
