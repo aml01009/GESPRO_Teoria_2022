@@ -1,30 +1,44 @@
-# GESPRO_Teoria_2022
-Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2022/23. Universidad de Burgos.
-
-Para completar el trabajo de estudio en grupo en las sesiones de teoría, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
-
-
-JMA modifica
-
-**MIEMBROS
+# MENU PRINCIPAL
+  
+## ID de la rama: 
 ```
-David TOME ARNAIZ, 
-ALejandro MARTÍNEZ LÓPEZ, 
-Ainhoa RODRIGO OBREGÓN, 
-Rodrigo RODRÍGUEZ FERNÁNDEZ, 
+5
+```
+<br><br/>
+
+
+## Descripción: 
+<br><br/>
+```
+Esta rama permite el usuario entra en el menú principal para poder realizar más tareas
 ```
 
+<br><br/>
 
-VER MAPAS DE MOTOR:
+## Estimación de tiempo:
+```
+La votación para la asignación de tiempo estimado obtuvo los siguientes resultados:
+    David: 8
+    Alejandro: 5
+    Ainhoa: 5
+    Rodrigo: 8
+Por lo tanto, el tiempo final estimado es de 2.6.5 días
+```
+<br><br/>
 
-ID de la rama: 2
+## Dependencias:
+```
+- ID6
+```
 
+<br><br/>
 
-Descripción:
+## Condiciones de satisfacción:
+```
+- Interfaz con fácil entendimiento para el usuario
+- Poder acceder a las demás tareas sin mucha dificultad
+```
 
-Esta rama nos va a permitir visualizar una lista con todos los Gran Premios.
-
-En caso de que haya sanciones, se indicará su valor, el corredor sancionado y el tiempo que ha recibido de sanción.
 
 
 
