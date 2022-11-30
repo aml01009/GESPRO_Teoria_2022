@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GESPRO_Teoria_2022
 Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2022/23. Universidad de Burgos.
 
@@ -8,18 +9,17 @@ JMA modifica
 
 **Incluid debajo el nombre de los miembros del grupo:**
 
-
-
 <br> <br/>
 <br> <br/>
 ***NOMBRE DE LOS PARTICIPANTES:***
-
 ```
 TOMÉ ARNAIZ, David       
-MARTÍNEZ LÓPEZ, Alejandro               
-RODRIGO OBREGÓN, Ainhoa        
+MARTÍNEZ LÓPEZ, Alejandro 
+RODRIGO OBREGÓN, Ainhoa
 RODRÍGUEZ FERNÁNDEZ, Rodrigo
-```
+´´´ 
+
+<br> <br/>
 <br> <br/>
 
 ***ROL DE LOS PARTICIPANTES:***
@@ -35,7 +35,7 @@ RODRÍGUEZ FERNÁNDEZ, Rodrigo
 _Desarrolladores:_ 
 ```
 TOMÉ ARNAIZ, David       
-RODRÍGUEZ FERNÁNDEZ, Rodrigo
+RODRIGO OBREGÓN, Ainhoa
 ```
 <br> <br/>
 
@@ -173,6 +173,33 @@ Fuente registrado.
 <br> <br/>
 <br> <br/>
 
+<br><br/>
+
+## Estimación de tiempo:
+```
+La votación para la asignación de tiempo estimado obtuvo los siguientes resultados:
+    David: 3
+    Alejandro: 2
+    Ainhoa: 2
+    Rodrigo: 3
+Por lo tanto, el tiempo final estimado es de 2.5 días
+```
+<br><br/>
+
+## Dependencias:
+```
+- Tener/Crear un usuario y contraseña
+```
+
+<br><br/>
+
+## Condiciones de satisfacción:
+```
+- Poder registrarte e iniciar sesión sin retrasos ni errores.
+- La contraseña debe tener una mayúscula, un número y un signo de puntuación
+- Poder entrar al menú principal 
+```
+<br> <br/>
 
 
 ***HISTORIAS DE USUARIO***
