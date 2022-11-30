@@ -178,7 +178,6 @@ Fuente registrado.
 ## ID de la rama: 
 ```
 6
-=======
 
 ```
 
@@ -198,9 +197,6 @@ La votación para la asignación de tiempo estimado obtuvo los siguientes result
 Por lo tanto, el tiempo final estimado es de 2.5 días
 ```
 <br><br/>
-
-=======
->>>>>>> MSF-2-menu-principal
 
 ## Dependencias:
 ```
