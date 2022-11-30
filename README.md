@@ -224,7 +224,7 @@ La votación para la asignación de tiempo estimado obtuvo los siguientes result
     Alejandro: 5
     Ainhoa: 5
     Rodrigo: 8
-Por lo tanto, el tiempo final estimado es de 2.6.5 días
+Por lo tanto, el tiempo final estimado es de 2.65 días
 ```
 
 ## Dependencias:
@@ -278,6 +278,7 @@ Por lo tanto, el tiempo final estimado es de 1.5 días
 ```
 
 # VER MAPAS DE MOTOR:
+# CLASIFICACIÓN:
   
 ## ID de la rama: 
 ```
@@ -289,12 +290,21 @@ Por lo tanto, el tiempo final estimado es de 1.5 días
 Esta rama nos va a permitir visualizar las configuraciones del coche
 ```
 
+<br><br/>
+
+
+## Descripción: 
+```
+Esta rama nos permite visualizar la clasificación de los pilotos hasta la fecha actual
+```
+
+<br><br/>
+
 ## Estimación de tiempo:
 ```
 La votación para la asignación de tiempo estimado obtuvo los siguientes resultados:
     David: 1
     Alejandro: 2
-    Ainhoa: 2
     Rodrigo: 2
 Por lo tanto, el tiempo final estimado es de 1.75 días
 ```
@@ -329,15 +339,17 @@ La votación para la asignación de tiempo estimado obtuvo los siguientes result
     Ainhoa: 2
     Rodrigo: 1
 Por lo tanto, el tiempo final estimado es de 1.5 días
+    Ainhoa: 1
+Por lo tanto, el tiempo final estimado es de 1.25 días
 ```
 <br><br/>
-
 ## Dependencias:
 ```
 - Para poder completar esta tarea, es necesario haber completado la tarea con ID 5.
 
 - Se debe haber finalizado la carrera
 - Se deben de haber provocado acciones antirreglamentarias para que aparezcan estas sanciones.
+- Al finalizar cada premio, se actualiza la tabla con los nuevos puntos obtenidos por los pilotos
 ```
 
 <br><br/>
@@ -349,5 +361,9 @@ Por lo tanto, el tiempo final estimado es de 1.5 días
 - Se incluirá un enlace en el acta de carrera con el informe oficial de la FIA
 ```
 
+
+
+- Se debe poder visualizar de forma clara el nombre de los pilotos, y los puntos, victorias y podios obtenidos
+```
 
 
