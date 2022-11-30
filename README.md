@@ -171,19 +171,15 @@ Fuente registrado.
 <br> <br/>
 <br> <br/>
 
-<br><br/>
-
 # GESTIÓN DE PIEZAS Y RECAMBIOS PARA LOS VEHÍCULOS:
   
 ## ID de la rama: 
 ```
 1
 ```
-<br><br/>
-
 
 ## Descripción: 
-<br><br/>
+
 ```
 Esta rama nos permite entrar en la aplicación y en el menú principal para poder realizar las demás tareas
 ```
