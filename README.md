@@ -6,6 +6,7 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 JMA modifica
 
+<<<<<<< HEAD
 **Incluid debajo el nombre de los miembros del grupo:**
 
 
@@ -38,4 +39,28 @@ RODRÍGUEZ FERNÁNDEZ, Rodrigo
 ```
 
 
+=======
+**MIEMBROS
+```
+David TOME ARNAIZ, 
+ALejandro MARTÍNEZ LÓPEZ, 
+Ainhoa RODRIGO OBREGÓN, 
+Rodrigo RODRÍGUEZ FERNÁNDEZ, 
+```
+
+
+VER MAPAS DE MOTOR:
+
+ID de la rama: 2
+
+
+Descripción:
+
+Esta rama nos va a permitir visualizar una lista con todos los Gran Premios.
+
+En caso de que haya sanciones, se indicará su valor, el corredor sancionado y el tiempo que ha recibido de sanción.
+
+
+
+>>>>>>> MSF-2-menu-principal
 
