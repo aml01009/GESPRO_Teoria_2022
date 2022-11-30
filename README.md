@@ -10,7 +10,8 @@ JMA modifica
 
 
 
-
+<br> <br/>
+<br> <br/>
 ***NOMBRE DE LOS PARTICIPANTES:***
 
 ```
@@ -61,11 +62,18 @@ V1.0.1
 
 ***DESCRIPCIÓN GENERAL***
 ```
-El proyecto a realizar se trata de un software privado dedicado explícitamente para empresas y escuderías que trabajan en la competición oficial que recoge la Federación Internacional del Automóvil (FIA), más conocida como Fórmula 1 (F1).
+El proyecto a realizar se trata de un software privado dedicado explícitamente para empresas y escuderías<br> <br/>
+que trabajan en la competición oficial que recoge la Federación Internacional del Automóvil (FIA), <br> <br/>
+más conocida como Fórmula 1 (F1).
 
-La importancia de esta competición es máxima, puesto que es considerada como la principal competición automovilística internacional y el campeonato de deportes de motor más popular y prestigioso del mundo.
+La importancia de esta competición es máxima, puesto que es considerada como la principal competición <br> <br/>
+automovilística internacional y el campeonato de deportes de motor más popular y prestigioso del mundo.
 
-Es por todo esto, que nuestro software está destinado a la creación de una interfaz global, fácil de utilizar para todos, totalmente personalizable y con acceso a todas las licencias que maneja el campeonato. Desde ella se podrá administrar de forma completa, toda la información que maneje la escudería: desde la inscripción de sus pilotos, pasando por las horas de entrenamiento de las que disponen, pruebas del coche, clasificación, hasta un inventario total de las piezas de taller y mecánicos.
+Es por todo esto, que nuestro software está destinado a la creación de una interfaz global, fácil de <br> <br/>
+utilizar para todos, totalmente personalizable y con acceso a todas las licencias que maneja el campeonato. <br> <br/>
+Desde ella se podrá administrar de forma completa, toda la información que maneje la escudería: desde la<br> <br/>
+inscripción de sus pilotos, pasando por las horas de entrenamiento de las que disponen, pruebas del coche,<br> <br/>
+clasificación, hasta un inventario total de las piezas de taller y mecánicos.
 ```
 <br> <br/>
 
@@ -73,7 +81,8 @@ Es por todo esto, que nuestro software está destinado a la creación de una int
 ```
 En estos momentos, el software se encuentra en plena fase de desarrollo.
 
-Ciertas partes están completadas o en fase de pre-alpha; sin embargo, hay otras que están en plena inicialización o en proceso de cambio.
+Ciertas partes están completadas o en fase de pre-alpha; sin embargo, hay otras que están en plena <br> <br/>
+inicialización o en proceso de cambio.
 
 Por ello, el software aún no cuenta con una alpha completa para testear con el pública interesado.
 ```
@@ -82,8 +91,12 @@ Por ello, el software aún no cuenta con una alpha completa para testear con el 
 ***REQUISITOS DEL ENTORNO***
 ```
 Para poder utilizar el software, se podrá disponer de:
-    - Ordenador: no necesita grandes especificaciones, ni un sistema operativo actual. Está pensado para que practicamente cualquier consola pueda disponerlo sin problema de rendimiento.
-    - Dispositivo móvil: en este caso no podrá usarse en todos los teléfonos móviles. Deberá ser 'smartphone' y además actualmente en la versión de trabajo, solo se puede utilizar para sistemas de la marca Apple. En un futuro se prevee y espera que se pueda utilizar también para el resto de sistemas operativos móviles.
+    - Ordenador: no necesita grandes especificaciones, ni un sistema operativo actual. Está pensado <br> <br/>
+        para que practicamente cualquier consola pueda disponerlo sin problema de rendimiento.
+    - Dispositivo móvil: en este caso no podrá usarse en todos los teléfonos móviles. Deberá ser <br> <br/>
+        'smartphone' y además actualmente en la versión de trabajo, solo se puede utilizar para sistemas<br> <br/>
+        de la marca Apple. En un futuro se prevee y espera que se pueda utilizar también para el resto <br> <br/>
+        de sistemas operativos móviles.
 ```
 <br> <br/>
 
@@ -92,22 +105,24 @@ Para poder utilizar el software, se podrá disponer de:
 La guía no está disponible en estos momentos.
 
 Esta saldrá cuando el software esté listo para su primera fase alpha. Contará con:
-    - Un documente de texto al estilo 'Read me' en el que saldrá detallado de forma sencilla los pasos de instalación del software. 
-    - Un tutorial que saldrá la primera vez que inicias el software, así como la opción en 'Ajustes' de repetirlo cuando se quiera y tantas veces como se quiera.
+    - Un documente de texto al estilo 'Read me' en el que saldrá detallado de forma sencilla los pasos <br> <br/>
+        de instalación del software. 
+    - Un tutorial que saldrá la primera vez que inicias el software, así como la opción en 'Ajustes' de <br> <br/>
+        repetirlo cuando se quiera y tantas veces como se quiera.
     - Soporte 24 horas en nuestra página web así como apartado de FAQs en la misma.
 ```
 <br> <br/>
 
 ***TECNOLOGÍAS UTILIZADAS***
 ```
-- GitHub Desktop
-- Miro
-- Jira
-- VisualStudio Code
-- Git
-- Zoom
-- Software de texto
-- GitHub
+    - GitHub Desktop
+    - Miro
+    - Jira
+    - VisualStudio Code
+    - Git
+    - Zoom
+    - Software de texto
+    - GitHub
 ```
 <br> <br/>
 
@@ -115,7 +130,9 @@ Esta saldrá cuando el software esté listo para su primera fase alpha. Contará
 ```
 Actualmente es privada, debido a que se encuestra en fase de desarrollo.
 
-Pero la idea es que cuando esté terminado y registrado con todas las licencias adquiridas, ciertas partes de este se encuentren en modo lectura, de tal modo que se pueda visitar en GitHub, pero sin acceso a modificarlo.
+Pero la idea es que cuando esté terminado y registrado con todas las licencias adquiridas, <br> <br/>
+ciertas partes de este se encuentren en modo lectura, de tal modo que se pueda visitar en GitHub, <br> <br/>
+pero sin acceso a modificarlo.
 ```
 <br> <br/>
 
@@ -123,7 +140,10 @@ Pero la idea es que cuando esté terminado y registrado con todas las licencias 
 ```
 Actualmente nuestros desarrolladores se encuentran soluncionando el apartado de 'Ver mapas motor'.
 
-Esto es debido a que surgieron varios errores en el código puesto que aún no contamos con la licencia de varias escuderías, por lo que los desarrolladores están en proceso de crear un automóvil 'estándar' según las normas de la FIA recogidas para la siguiente temporada, y recoger en este las diferentes opciones que see pueden recoger (estrategias en su mayoría).
+Esto es debido a que surgieron varios errores en el código puesto que aún no contamos con la licencia <br> <br/>
+de varias escuderías, por lo que los desarrolladores están en proceso de crear un automóvil 'estándar' según <br> <br/>
+las normas de la FIA recogidas para la siguiente temporada, y recoger en este las diferentes opciones que <br> <br/>
+se pueden recoger (estrategias en su mayoría).
 ```
 <br> <br/>
 
@@ -133,19 +153,24 @@ Esto es debido a que surgieron varios errores en el código puesto que aún no c
 + Se estima que estará disponible para la temporada 2024 del campeonato oficial de F1.
 
 - ¿Quién tendrá acceso al software?
-+ Principalmente está siendo diseñado para las escuderías y los directivos de estas. Pero dentro de cada empresa, el software se podrá visualizar entre aquellos que lo requieran.
++ Principalmente está siendo diseñado para las escuderías y los directivos de estas. Pero dentro de <br> <br/>
+cada empresa, el software se podrá visualizar entre aquellos que lo requieran.
 
 - ¿Estará disponible para otros deportes de motor además de F1?
-+ De momento no. En un futuro es muy probable que otras Federaciones o disciplinas de la FIA estén interesadas en adquirir su propio software; pero aun queda tiempo para que eso se lleve a cabo.
++ De momento no. En un futuro es muy probable que otras Federaciones o disciplinas de la FIA estén <br> <br/>
+interesadas en adquirir su propio software; pero aun queda tiempo para que eso se lleve a cabo.
 ```
 <br> <br/>
 
 ***DERECHOS Y LICENCIAS***
 ```
-GOF está registrado como Licencia Software Administrador para el uso de todas las carcas que se encuentran en la competción.
+GOF está registrado como Licencia Software Administrador para el uso de todas las carcas que <br> <br/>
+se encuentran en la competción.
 
-GOF se encuentra ya registrado en la Ley de Derechos de Autor y bajo la Ley de Código Fuente registrado.
+GOF se encuentra ya registrado en la Ley de Derechos de Autor y bajo la Ley de Código <br> <br/>
+Fuente registrado.
 ```
+<br> <br/>
 <br> <br/>
 
 
