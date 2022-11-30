@@ -19,10 +19,7 @@ MARTÍNEZ LÓPEZ, Alejandro
 RODRIGO OBREGÓN, Ainhoa        
 RODRÍGUEZ FERNÁNDEZ, Rodrigo
 ```
-
-
-
-
+<br> <br/>
 
 ***ROL DE LOS PARTICIPANTES:***
 
