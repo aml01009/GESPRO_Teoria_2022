@@ -1,26 +1,43 @@
-# GESPRO_Teoria_2022
-Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2022/23. Universidad de Burgos.
-
-Para completar el trabajo de estudio en grupo en las sesiones de teoría, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
-
-
-JMA modifica
-
-**Incluid debajo el nombre de los miembros del grupo:**
-
-
-
-
-***NOMBRE DE LOS PARTICIPANTES:***
-
+# GESTIÓN DE PIEZAS Y RECAMBIOS PARA LOS VEHÍCULOS:
+  
+## ID de la rama: 
 ```
-TOMÉ ARNAIZ, David       
-MARTÍNEZ LÓPEZ, Alejandro               
-RODRIGO OBREGÓN, Ainhoa        
-RODRÍGUEZ FERNÁNDEZ, Rodrigo
+1
+```
+<br><br/>
+
+
+## Descripción: 
+<br><br/>
+```
+Esta rama nos permite entrar en la aplicación y en el menú principal para poder realizar las demás tareas
 ```
 
+<br><br/>
 
+## Estimación de tiempo:
+```
+La votación para la asignación de tiempo estimado obtuvo los siguientes resultados:
+    David: 3
+    Alejandro: 2
+    Ainhoa: 2
+    Rodrigo: 3
+Por lo tanto, el tiempo final estimado es de 2.5 días
+```
+<br><br/>
 
+## Dependencias:
+```
+- Tener/Crear un usuario y contraseña
+```
+
+<br><br/>
+
+## Condiciones de satisfacción:
+```
+- Poder registrarte e iniciar sesión sin retrasos ni errores.
+- La contraseña debe tener una mayúscula, un número y un signo de puntuación
+- Poder entrar al menú principal 
+```
 
 
