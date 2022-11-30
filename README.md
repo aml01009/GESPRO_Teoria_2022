@@ -3,7 +3,7 @@
   
 ## ID de la rama: 
 ```
-5
+1
 ```
 <br><br/>
 
@@ -20,7 +20,7 @@ Por lo tanto, el tiempo final estimado es de 1.5 días
 
 ## Dependencias:
 ```
-- Para poder completar esta tarea, es necesario haber completado la tarea con ID 2.
+- Para poder completar esta tarea, es necesario haber completado la tarea con ID 5.
 
 - Se debe haber finalizado la carrera
 - Se deben de haber provocado acciones antirreglamentarias para que aparezcan estas sanciones.
