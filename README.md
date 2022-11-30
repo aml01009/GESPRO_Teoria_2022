@@ -1,15 +1,43 @@
-# GESPRO_Teoria_2022
-Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2022/23. Universidad de Burgos.
+# CLASIFICACIÓN:
+  
+## ID de la rama: 
+```
+6
+```
+<br><br/>
 
-Para completar el trabajo de estudio en grupo en las sesiones de teoría, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
+
+## Descripción: 
+<br><br/>
+```
+Esta rama nos permite visualizar la clasificación de los pilotos hasta la fecha actual
+```
+
+<br><br/>
+
+## Estimación de tiempo:
+```
+La votación para la asignación de tiempo estimado obtuvo los siguientes resultados:
+    David: 1
+    Alejandro: 2
+    Ainhoa: 1
+    Rodrigo: 1
+Por lo tanto, el tiempo final estimado es de 1.25 días
+```
+<br><br/>
+
+## Dependencias:
+```
+- Para poder completar esta tarea, es necesario haber completado la tarea con ID 2.
+
+- Al finalizar cada premio, se actualiza la tabla con los nuevos puntos obtenidos por los pilotos
+```
+
+<br><br/>
+
+## Condiciones de satisfacción:
+```
+- Se debe poder visualizar de forma clara el nombre de los pilotos, y los puntos, victorias y podios obtenidos
+```
 
 
-JMA modifica
-
-**Incluid debajo el nombre de los miembros del grupo:**
-David Tome Arnaiz
-
-Rodrigo Rodriguez Fernandez
-MARTÍNEZ LÓPEZ, ALejandro
-RODRIGO OBREGÓN, Ainhoa
-RODRÍGUEZ FERNÁNDEZ, Rodrigo
