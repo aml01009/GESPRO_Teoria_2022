@@ -11,7 +11,7 @@ JMA modifica
 
 
 ```
-*NOMBRE DE LOS PARTICIPANTES:*
+***NOMBRE DE LOS PARTICIPANTES:***
 
 David TOMÉ ARNAIZ       
 Alejandro MARTÍNEZ LÓPEZ               
