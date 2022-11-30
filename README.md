@@ -203,6 +203,7 @@ Por lo tanto, el tiempo final estimado es de 2.5 días
 
 
 # MENU PRINCIPAL
+
   
 ## ID de la rama: 
 ```
@@ -228,7 +229,7 @@ Por lo tanto, el tiempo final estimado es de 2.6.5 días
 
 ## Dependencias:
 ```
-- ID6
+- Para poder completar esta tarea, es necesario haber completado la tarea con ID 6.
 ```
 
 ## Condiciones de satisfacción:
@@ -248,6 +249,7 @@ Por lo tanto, el tiempo final estimado es de 2.6.5 días
 ```
 Esta rama nos permite ver y gestionar todos los modelos de piezas incluidos en cada vehículo, así como los posibles recambios en caso de avería.
 ```
+<br><br/>
 
 ## Estimación de tiempo:
 ```
@@ -258,10 +260,11 @@ La votación para la asignación de tiempo estimado obtuvo los siguientes result
     Rodrigo: 1
 Por lo tanto, el tiempo final estimado es de 1.5 días
 ```
+<br><br/>
 
 ## Dependencias:
 ```
-- Para poder completar esta tarea, es necesario haber completado la tarea con ID 2.
+- Para poder completar esta tarea, es necesario haber completado la tarea con ID 5.
 
 - Se deben haber comprado piezas de repuesto
 ```
@@ -310,3 +313,15 @@ Por lo tanto, el tiempo final estimado es de 1.75 días
 - Enlace al acta de carrera con informe de la FIA en cuestion
 ```
 
+- Se debe haber finalizado la carrera
+- Se deben de haber provocado acciones antirreglamentarias para que aparezcan estas sanciones.
+```
+
+<br><br/>
+
+## Condiciones de satisfacción:
+```
+- Permite ordenar la lista visualizada según la cantidad de tiempo de la sanción, la fecha, el corredor, ...
+- En cada sanción, se debe incluir una breve descripción del motivo y las consecuencias que conlleva.
+- Se incluirá un enlace en el acta de carrera con el informe oficial de la FIA
+```
