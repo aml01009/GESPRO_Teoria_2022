@@ -212,7 +212,7 @@ Por lo tanto, el tiempo final estimado es de 2.5 días
 ```
 <br> <br/>
 
-<br><br/>
+
 
 # MENU PRINCIPAL
   
