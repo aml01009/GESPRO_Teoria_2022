@@ -70,10 +70,10 @@ La importancia de esta competición es máxima, puesto que es considerada como l
 automovilística internacional y el campeonato de deportes de motor más popular y prestigioso del mundo.
 
 Es por todo esto, que nuestro software está destinado a la creación de una interfaz global, fácil de 
-utilizar para todos, totalmente personalizable y con acceso a todas las licencias que maneja el campeonato. 
-Desde ella se podrá administrar de forma completa, toda la información que maneje la escudería: desde la
-inscripción de sus pilotos, pasando por las horas de entrenamiento de las que disponen, pruebas del coche,
-clasificación, hasta un inventario total de las piezas de taller y mecánicos.
+utilizar para todos, totalmente personalizable y con acceso a todas las licencias que maneja el 
+campeonato. Desde ella se podrá administrar de forma completa, toda la información que maneje la 
+escudería: desde lainscripción de sus pilotos, pasando por las horas de entrenamiento de las que 
+disponen, pruebas del coche, clasificación, hasta un inventario total de las piezas de taller.
 ```
 <br> <br/>
 
@@ -141,9 +141,9 @@ pero sin acceso a modificarlo.
 Actualmente nuestros desarrolladores se encuentran soluncionando el apartado de 'Ver mapas motor'.
 
 Esto es debido a que surgieron varios errores en el código puesto que aún no contamos con la licencia 
-de varias escuderías, por lo que los desarrolladores están en proceso de crear un automóvil 'estándar' según 
-las normas de la FIA recogidas para la siguiente temporada, y recoger en este las diferentes opciones que 
-se pueden recoger (estrategias en su mayoría).
+de varias escuderías, por lo que los desarrolladores están en proceso de crear un automóvil 'estándar'
+según las normas de la FIA recogidas para la siguiente temporada, y recoger en este las diferentes 
+opciones que se pueden recoger (estrategias en su mayoría).
 ```
 <br> <br/>
 
