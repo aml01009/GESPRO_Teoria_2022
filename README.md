@@ -172,7 +172,9 @@ Fuente registrado.
 <br> <br/>
 <br> <br/>
 
-# GESTIÓN DE PIEZAS Y RECAMBIOS PARA LOS VEHÍCULOS:
+***HISTORIAS DE USUARIO***
+
+# Sistema de Registro:
   
 ## ID de la rama: 
 ```
@@ -183,7 +185,6 @@ Fuente registrado.
 
 ## Descripción: 
 
-<<<<<<< HEAD
 ```
 Esta rama nos permite entrar en la aplicación y en el menú principal para poder realizar las demás tareas
 ```
@@ -201,10 +202,6 @@ Por lo tanto, el tiempo final estimado es de 2.5 días
 
 =======
 >>>>>>> MSF-2-menu-principal
-
-
-***HISTORIAS DE USUARIO***
-
 
 ## Dependencias:
 ```
@@ -262,4 +259,3 @@ Por lo tanto, el tiempo final estimado es de 2.6.5 días
 ```
 - Interfaz con fácil entendimiento para el usuario
 - Poder acceder a las demás tareas sin mucha dificultad
->>>>>>> MSF-2-menu-principal
