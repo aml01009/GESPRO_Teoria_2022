@@ -178,7 +178,6 @@ Fuente registrado.
 ## ID de la rama: 
 ```
 6
-
 ```
 
 ## Descripción: 
@@ -196,14 +195,14 @@ La votación para la asignación de tiempo estimado obtuvo los siguientes result
     Rodrigo: 3
 Por lo tanto, el tiempo final estimado es de 2.5 días
 ```
-<br><br/>
+
 
 ## Dependencias:
 ```
 - Tener/Crear un usuario y contraseña
 ```
 
-<br><br/>
+
 
 ## Condiciones de satisfacción:
 ```
@@ -221,16 +220,13 @@ Por lo tanto, el tiempo final estimado es de 2.5 días
 ```
 5
 ```
-<br><br/>
 
 
 ## Descripción: 
-<br><br/>
 ```
 Esta rama permite el usuario entra en el menú principal para poder realizar más tareas
 ```
 
-<br><br/>
 
 ## Estimación de tiempo:
 ```
@@ -241,14 +237,12 @@ La votación para la asignación de tiempo estimado obtuvo los siguientes result
     Rodrigo: 8
 Por lo tanto, el tiempo final estimado es de 2.6.5 días
 ```
-<br><br/>
 
 ## Dependencias:
 ```
 - ID6
 ```
 
-<br><br/>
 
 ## Condiciones de satisfacción:
 ```
